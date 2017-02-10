@@ -5,9 +5,12 @@ Basically an http api built on top the node course *asset-service*
 
 ## Documentation
 to see an online/usable documentation make:
-node server.js
 
-then surf to http://localhost:8989/documentation
+```javascript
+node server.js
+```
+
+then surf to [documentation](http://localhost:8989/documentation) 
 
 ## APIs
 ### GET /
